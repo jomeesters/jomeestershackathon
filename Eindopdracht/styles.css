@@ -1,0 +1,49 @@
+.studjm {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 250px;
+}
+.studjm a:link{
+  color: rgb(255, 255, 255);
+}
+.studjm a:hover {
+  color: rgb(252, 252, 255);
+  font-size: 41px;
+}
+  body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+ main {
+  padding: 20px;
+  margin: 0;
+  border: 0;
+ }
+.entry {
+  margin: 0;
+  padding: 20px;
+  border: 0;
+}
+a:link {
+    color: dimgray;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(213, 220, 230);
+  }
+a:visited {
+  color: white;
+}
+form {
+  padding-top: 30px;
+  padding-left: 5px;
+}
+@media screen and (min-width: 1024px)  {
+ .header {
+  display: flexbox;
+  align-content: center;
+ }
+}

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Exercise_CSS_box_model"
+		},
+		{
+			"path": "../Exercise_flexbox"
+		},
+		{
+			"path": "../Exercise_css_grid"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Eindopdracht"
+	}
+}
